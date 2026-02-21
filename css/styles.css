@@ -133,4 +133,11 @@ address {
 
 .footer-text {
   color: #f4f4fd;
+
+}
+
+.hero-title,
+.team-name,
+.team-position {
+  text-align: center;
 }
