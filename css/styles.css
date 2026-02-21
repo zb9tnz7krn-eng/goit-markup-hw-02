@@ -64,6 +64,12 @@ address {
 
 /* HERO */
 
+.hero-title {
+  text-align: center;
+}
+
+
+
 .hero {
   background-color: #2e2f42;
 }
@@ -119,6 +125,14 @@ address {
   letter-spacing: 0.02em;
 }
 
+.team-name {
+  text-align: center;
+}
+
+.team-position {
+  text-align: center;
+}
+
 .team {
   background-color: #f4f4fd;
 }
@@ -133,10 +147,4 @@ address {
 
 .footer-text {
   color: #f4f4fd;
-}
-
-.hero-title,
-.team-name,
-.team-position {
-  text-align: center;
 }
